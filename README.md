@@ -1,6 +1,6 @@
 # Vehicle-Management-System
 
-Build a online vehicle management system for my hometown government, web address is 115.28.228.129
+Build a online vehicle management system for my hometown government, web address is http://115.28.228.129
 
 The whole program is whole completed by myself. Thanks for kind help from Dingxi(Gansu, China) government office. Without their suggestions and technical support, I can't finish it in a short period of time.
 
